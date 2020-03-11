@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html,body {
+  height: 100%;
+}
+
+.navbar {
+    background: #79125e !important;
+}
+
+body {
+    background: #e3e3db !important;
+}
+
+header {
+    background: #c39e8b !important;
+}
+
+.footer {
+  height: 50px;
+  margin-top: -50px;
+}
